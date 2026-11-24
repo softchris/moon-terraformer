@@ -1,0 +1,2 @@
+moon_2k.jpg: NASA Scientific Visualization Studio, "CGI Moon Kit" (LROC colour map). Public domain.
+earth_day.jpg, earth_clouds.png, earth_lights.png: three.js examples/textures/planets (MIT repo; NASA-derived imagery).
